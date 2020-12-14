@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nh+Nlh8PpMuK4UmECIcPVLFPJ+EO+NLmhp72Sz51vC2InulrI++Hwx7F/UnFJM7lKynAehFIRbase/yiORriSg==",
+  "success": true,
+  "projectFilePath": "C:\\deneme\\DenemeProjesi\\DenemeProjesi\\DenemeProjesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ufuki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ufuki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
